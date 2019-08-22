@@ -38,3 +38,15 @@ padding: 0.5em;
   font-size: 20px;
 
 }
+
+#footer
+{
+    width: 90%;
+    padding: 0.5px;
+    text-align: center;
+    border: 1px solid #DDD;
+    background-color: rgba(177, 173, 172, 0.966);
+    margin: 0 auto;
+    font-size: 12px;
+
+}
